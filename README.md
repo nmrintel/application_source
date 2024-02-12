@@ -1,3 +1,16 @@
+
+# アプリについて
+
+[動作しているアプリへのリンク](https://verceltest-omega-coral.vercel.app/)
+
+フロントエンド: Next.js,Reactstrap
+バックエンド: Google Firebase(auth,store,storage)
+動作環境: vercel
+
+APIキーの都合上、実際のvercelにデプロイしているレポジトリとは少し異なります。
+
+# ライセンス表記(React strap)
+
 The MIT License (MIT)
 
 Reactstrap:Copyright (c) 2016-Present Eddy Hernandez, Chris Burrell, Evan Sharp
